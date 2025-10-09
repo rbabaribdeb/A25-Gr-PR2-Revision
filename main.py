@@ -1,7 +1,7 @@
 import PyQt6
 
 
-print()
+print("Quelque chose par Eric")
 
 
 # Autre code
