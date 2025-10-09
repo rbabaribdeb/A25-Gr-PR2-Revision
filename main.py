@@ -1,2 +1,4 @@
-print('Hello')
-print("hello" * 13)
+# Autre code
+liste = (1,2,3,4,5)
+for l in liste:
+    print(l)
